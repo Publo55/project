@@ -3,6 +3,5 @@
 </head>
 <body>
 <p>Hlophe</p>
-<p>Njabulo</p>
 </body>
 </html>
